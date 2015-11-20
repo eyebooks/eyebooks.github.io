@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-20T23:57:27+08:00</updated>
+  <updated>2015-11-21T00:22:47+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,10 @@
     <link href="http://eyebooks.github.io/blog/2015/11/20/xie-yu-da-yue-zai-dong-ji/"/>
     <updated>2015-11-20T23:55:00+08:00</updated>
     <id>http://eyebooks.github.io/blog/2015/11/20/xie-yu-da-yue-zai-dong-ji</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>很久以前就想搭一个自己的blog，以前也尝试过wordpress，但总觉得不值自己真正意义的blog，这几天因为学习swift，总想有个地方总结学习中的方方便便，让知识和思想沉淀。之前也有听说过octopress，但是要使用git，就吓跑了。因为某些原因，开始使用git，用习惯以后就突然很依赖git，反而越来越喜欢上了，几经折腾，终于搭建了一个简易的博客。
+我想，该博客的主意内容大致是读书笔记，学习笔记，思考总结，生活的点点滴滴等。</p>
+
+<p>感谢所有乐于在网络上分享经验和知识等大神，以及伟大的开源世界！</p>
 ]]></content>
   </entry>
   
