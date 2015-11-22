@@ -9,6 +9,9 @@
     <lastmod>2015-11-20T23:40:01+08:00</lastmod>
   </url>
   <url>
+    <loc>http://eyebooks.github.io/blog/categories/</loc>
+  </url>
+  <url>
     <loc>http://eyebooks.github.io/blog/archives/</loc>
   </url>
   <url>
@@ -16,5 +19,8 @@
   </url>
   <url>
     <loc>http://eyebooks.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>http://eyebooks.github.io/blog/categories/octopress/</loc>
   </url>
 </urlset>

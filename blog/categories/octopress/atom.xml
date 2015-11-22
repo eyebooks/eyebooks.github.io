@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[攻城湿的世界]]></title>
-  <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[fenleioctopress | 攻城湿的世界]]></title>
+  <link href="http://eyebooks.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
   <updated>2015-11-22T23:31:35+08:00</updated>
   <id>http://eyebooks.github.io/</id>
@@ -23,15 +23,6 @@
 之前听说过octopress，但是要使用git，就吓跑了。因为某些原因，便开始使用git，用习惯以后对它就突然很依赖，几经折腾，终于搭建了一个简易的博客。我想，该博客的主要内容大致是读书笔记，学习笔记，思考总结，生活的点点滴滴等。</p>
 
 <p>感谢所有乐于在网络上分享经验和知识的大神，以及伟大的开源世界！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello world]]></title>
-    <link href="http://eyebooks.github.io/blog/20151120/hello-world.html"/>
-    <updated>2015-11-20T23:40:01+08:00</updated>
-    <id>http://eyebooks.github.io/blog/20151120/hello-world</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
