@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://eyebooks.github.io/blog/2015/11/20/xie-yu-da-yue-zai-dong-ji/</loc>
+    <loc>http://eyebooks.github.io/blog/20151120/xie-yu-da-yue-zai-dong-ji.html/</loc>
     <lastmod>2015-11-20T23:55:00+08:00</lastmod>
   </url>
   <url>
-    <loc>http://eyebooks.github.io/blog/2015/11/20/hello-world/</loc>
+    <loc>http://eyebooks.github.io/blog/20151120/hello-world.html/</loc>
     <lastmod>2015-11-20T23:40:01+08:00</lastmod>
   </url>
   <url>
@@ -13,5 +13,8 @@
   </url>
   <url>
     <loc>http://eyebooks.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://eyebooks.github.io/about/</loc>
   </url>
 </urlset>
