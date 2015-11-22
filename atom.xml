@@ -4,7 +4,7 @@
   <title><![CDATA[My Bloger]]></title>
   <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-22T11:56:31+08:00</updated>
+  <updated>2015-11-22T12:01:10+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -15,7 +15,7 @@
   
   <entry>
     <title type="html"><![CDATA[写与大约在冬季]]></title>
-    <link href="http://eyebooks.github.io/blog/20151120/xie-yu-da-yue-zai-dong-ji.html/"/>
+    <link href="http://eyebooks.github.io/blog/20151120/xie-yu-da-yue-zai-dong-ji.html"/>
     <updated>2015-11-20T23:55:00+08:00</updated>
     <id>http://eyebooks.github.io/blog/20151120/xie-yu-da-yue-zai-dong-ji</id>
     <content type="html"><![CDATA[<p>很久以前就想搭一个自己的blog，以前也尝试过wordpress，但总觉得不是自己真正意义的blog，这几天因为学习swift，总想有个地方总结学习中的方方便便，让知识和思想沉淀。之前也有听说过octopress，但是要使用git，就吓跑了。因为某些原因，开始使用git，用习惯以后对它就突然很依赖，反而越来越喜欢上了，几经折腾，终于搭建了一个简易的博客。
@@ -28,7 +28,7 @@ _
   
   <entry>
     <title type="html"><![CDATA[Hello world]]></title>
-    <link href="http://eyebooks.github.io/blog/20151120/hello-world.html/"/>
+    <link href="http://eyebooks.github.io/blog/20151120/hello-world.html"/>
     <updated>2015-11-20T23:40:01+08:00</updated>
     <id>http://eyebooks.github.io/blog/20151120/hello-world</id>
     <content type="html"><![CDATA[
