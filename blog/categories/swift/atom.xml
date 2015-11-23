@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[fenleiswift | 攻城湿的世界]]></title>
+  <link href="http://eyebooks.github.io/blog/categories/swift/atom.xml" rel="self"/>
+  <link href="http://eyebooks.github.io/"/>
+  <updated>2015-11-23T22:11:13+08:00</updated>
+  <id>http://eyebooks.github.io/</id>
+  <author>
+    <name><![CDATA[ShanQK]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Swift 之 Methods]]></title>
+    <link href="http://eyebooks.github.io/blog/20151123/swift-zhi-methods.html"/>
+    <updated>2015-11-23T21:36:08+08:00</updated>
+    <id>http://eyebooks.github.io/blog/20151123/swift-zhi-methods</id>
+    <content type="html"><![CDATA[<p><code>swift
+func foo(_ internal: Int) {
+	let local = internal
+}
+func bar() {
+	let result = foo(123)
+}	
+</code>
+<code>_</code>的意思是：我不想拥有一个外部名称。</p>
+
+]]></content>
+  </entry>
+  
+</feed>
