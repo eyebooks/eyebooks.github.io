@@ -4,7 +4,7 @@
   <title><![CDATA[攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-23T21:50:26+08:00</updated>
+  <updated>2015-11-23T22:09:19+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -24,15 +24,14 @@
 <span class="line-number">4</span>
 <span class="line-number">5</span>
 <span class="line-number">6</span>
-<span class="line-number">7</span>
 </pre></td><td class="code"><pre><code class="swift"><span class="line"><span class="k">func</span> <span class="nf">foo</span><span class="p">(</span><span class="n">_</span> <span class="nl">internal</span><span class="p">:</span> <span class="n">Int</span><span class="p">)</span> <span class="p">{</span>
 </span><span class="line">	<span class="k">let</span> <span class="n">local</span> <span class="o">=</span> <span class="n">internal</span>
 </span><span class="line"><span class="p">}</span>
 </span><span class="line"><span class="k">func</span> <span class="nf">bar</span><span class="p">()</span> <span class="p">{</span>
 </span><span class="line">	<span class="k">let</span> <span class="n">result</span> <span class="o">=</span> <span class="n">foo</span><span class="p">(</span><span class="mi">123</span><span class="p">)</span>
-</span><span class="line"><span class="p">}</span>
-</span><span class="line">	
+</span><span class="line"><span class="p">}</span>	
 </span></code></pre></td></tr></table></div></figure></notextile></div>
+<p><code>_</code>的意思是：我不想拥有一个外部名称。</p>
 
 ]]></content>
   </entry>
