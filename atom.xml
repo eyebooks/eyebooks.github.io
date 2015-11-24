@@ -4,7 +4,7 @@
   <title><![CDATA[攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-24T12:46:53+08:00</updated>
+  <updated>2015-11-24T12:53:10+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -32,9 +32,8 @@
 </span><span class="line"><span class="p">}</span>	
 </span></code></pre></td></tr></table></div></figure></notextile></div>
 <p><code>_</code>的意思是：我不想拥有一个外部名称。</p>
-<div align="center">   
-&lt;img src="./images/myimages/background.jpg" width = "300" height = "200" align=center /&gt;
-</div>
+
+<p><img src="./images/myimages/background.jpg" alt="" /></p>
 ]]></content>
   </entry>
   
