@@ -4,7 +4,7 @@
   <title><![CDATA[fenleiswift | 攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/blog/categories/swift/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-27T20:47:53+08:00</updated>
+  <updated>2015-11-27T20:54:55+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -29,7 +29,7 @@ func bar() {
 <code>_</code>的意思是：我不想拥有一个外部名称。</p>
 
 <p><!-- more -->
-<img class="center" src="/images/tx.jpg"></p>
+<img class="center" src="/images/tx.jpg" title="Caption" ></p>
 ]]></content>
   </entry>
   
