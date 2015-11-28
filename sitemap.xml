@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://eyebooks.github.io/blog/20151128/digu.html</loc>
+    <lastmod>2015-11-28T23:39:35+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://eyebooks.github.io/blog/20151123/swift-zhi-methods.html</loc>
     <lastmod>2015-11-23T21:36:08+08:00</lastmod>
   </url>
@@ -29,5 +33,8 @@
   </url>
   <url>
     <loc>http://eyebooks.github.io/blog/categories/swift/</loc>
+  </url>
+  <url>
+    <loc>http://eyebooks.github.io/blog/categories/xin-qing/</loc>
   </url>
 </urlset>
