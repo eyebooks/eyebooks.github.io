@@ -4,7 +4,7 @@
   <title><![CDATA[攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-29T00:41:43+08:00</updated>
+  <updated>2015-11-30T23:11:39+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iOS_Apprentice_1_学习笔记1]]></title>
+    <link href="http://eyebooks.github.io/blog/20151130/ios-apprentice-1-xue-xi-bi-ji-1.html"/>
+    <updated>2015-11-30T21:53:08+08:00</updated>
+    <id>http://eyebooks.github.io/blog/20151130/ios-apprentice-1-xue-xi-bi-ji-1</id>
+    <content type="html"><![CDATA[<p>通过某宝，终于买到了<em>The iOS Apprentice:Beginning iOS Development with Swift</em>这本书，真是我们这群穷屌丝的福音。
+<!--more-->
+今天开始做第一个<em>dome</em>，很喜欢作者的一句话：<em>There is a big difference between knowing the path and walking the path</em>,</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[低谷]]></title>
