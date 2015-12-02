@@ -4,7 +4,7 @@
   <title><![CDATA[fenleiswift | 攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/blog/categories/swift/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-30T23:50:36+08:00</updated>
+  <updated>2015-12-03T00:03:11+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -23,7 +23,17 @@
 
 <p>今天开始做第一个<em>dome</em>，很喜欢作者的一句话：<em>There is a big difference between knowing the path and walking the path</em>.</p>
 
-<p>在开发一个APP时，最重要的一点是首先：The firt step is to figure out <em><strong>what you</strong></em> need to do, <em><strong>how</strong></em> to du these things is not important yet.列出</p>
+<p>在开发一个APP时，最重要的一点是首先：The firt step is to figure out <em><strong>what you</strong></em> need to do, <em><strong>how</strong></em> to du these things is not important yet.</p>
+
+<p>关于ViewController，IOS设计原则就是每一个屏幕使用自己的view controller.swift文件.
+<code>swift
+func showAlert() {
+	let alert = UIAlertController(title:"Hello,world", message:"This is the ...", perferredStyle: .Alert)
+	let action = UIAlertAction(title: "Awesome", style: .Default, handler: nil)
+	alert.addAction(action)
+	presentViewController(alert, animated: true, completion: nil)
+}
+</code></p>
 ]]></content>
   </entry>
   

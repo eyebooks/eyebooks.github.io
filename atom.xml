@@ -4,7 +4,7 @@
   <title><![CDATA[攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-11-30T23:50:36+08:00</updated>
+  <updated>2015-12-03T00:03:11+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -23,7 +23,22 @@
 
 <p>今天开始做第一个<em>dome</em>，很喜欢作者的一句话：<em>There is a big difference between knowing the path and walking the path</em>.</p>
 
-<p>在开发一个APP时，最重要的一点是首先：The firt step is to figure out <em><strong>what you</strong></em> need to do, <em><strong>how</strong></em> to du these things is not important yet.列出</p>
+<p>在开发一个APP时，最重要的一点是首先：The firt step is to figure out <em><strong>what you</strong></em> need to do, <em><strong>how</strong></em> to du these things is not important yet.</p>
+
+<p>关于ViewController，IOS设计原则就是每一个屏幕使用自己的view controller.swift文件.</p>
+<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+<span class="line-number">4</span>
+<span class="line-number">5</span>
+<span class="line-number">6</span>
+</pre></td><td class="code"><pre><code class="swift"><span class="line"><span class="k">func</span> <span class="nf">showAlert</span><span class="p">()</span> <span class="p">{</span>
+</span><span class="line">	<span class="k">let</span> <span class="n">alert</span> <span class="o">=</span> <span class="n">UIAlertController</span><span class="p">(</span><span class="nl">title</span><span class="p">:</span><span class="s">&quot;Hello,world&quot;</span><span class="p">,</span> <span class="nl">message</span><span class="p">:</span><span class="s">&quot;This is the ...&quot;</span><span class="p">,</span> <span class="nl">perferredStyle</span><span class="p">:</span> <span class="p">.</span><span class="n">Alert</span><span class="p">)</span>
+</span><span class="line">	<span class="k">let</span> <span class="n">action</span> <span class="o">=</span> <span class="n">UIAlertAction</span><span class="p">(</span><span class="nl">title</span><span class="p">:</span> <span class="s">&quot;Awesome&quot;</span><span class="p">,</span> <span class="nl">style</span><span class="p">:</span> <span class="p">.</span><span class="n">Default</span><span class="p">,</span> <span class="nl">handler</span><span class="p">:</span> <span class="nb">nil</span><span class="p">)</span>
+</span><span class="line">	<span class="n">alert</span><span class="p">.</span><span class="n">addAction</span><span class="p">(</span><span class="n">action</span><span class="p">)</span>
+</span><span class="line">	<span class="n">presentViewController</span><span class="p">(</span><span class="n">alert</span><span class="p">,</span> <span class="nl">animated</span><span class="p">:</span> <span class="nb">true</span><span class="p">,</span> <span class="nl">completion</span><span class="p">:</span> <span class="nb">nil</span><span class="p">)</span>
+</span><span class="line"><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
 ]]></content>
   </entry>
   
