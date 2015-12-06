@@ -4,7 +4,7 @@
   <title><![CDATA[攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-12-06T12:26:14+08:00</updated>
+  <updated>2015-12-06T12:28:55+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -54,7 +54,7 @@
   <li>The thing that provides functionality to an object is commonly called a <em><strong>method</strong></em>. Other programming languages may call this a “procedure” or “subroutine” or “function”. You will also see the term function used in Swift; a method is simply a function that belongs to an object.</li>
 </ul>
 
-<p><img class="center" src="http://eyebooks.github.io/images/myimages/object-oriented" /></p>
+<p><img class="center" src="http://eyebooks.github.io/images/myimages/object-oriented.jpg" /></p>
 ]]></content>
   </entry>
   
