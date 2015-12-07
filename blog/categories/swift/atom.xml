@@ -4,7 +4,7 @@
   <title><![CDATA[fenleiswift | 攻城湿的世界]]></title>
   <link href="http://eyebooks.github.io/blog/categories/swift/atom.xml" rel="self"/>
   <link href="http://eyebooks.github.io/"/>
-  <updated>2015-12-06T12:30:30+08:00</updated>
+  <updated>2015-12-07T21:51:51+08:00</updated>
   <id>http://eyebooks.github.io/</id>
   <author>
     <name><![CDATA[ShanQK]]></name>
@@ -18,14 +18,13 @@
     <link href="http://eyebooks.github.io/blog/20151130/ios-apprentice-1-xue-xi-bi-ji-1.html"/>
     <updated>2015-11-30T21:53:08+08:00</updated>
     <id>http://eyebooks.github.io/blog/20151130/ios-apprentice-1-xue-xi-bi-ji-1</id>
-    <content type="html"><![CDATA[<p>通过某宝，终于买到了<em>The iOS Apprentice:Beginning iOS Development with Swift</em>这本书，真是我们这群穷屌丝的福音。
-<!--more--></p>
+    <content type="html"><![CDATA[<p>通过某宝，终于买到了<em>The iOS Apprentice:Beginning iOS Development with Swift</em>这本书，真是我们这群穷屌丝的福音。</p>
 
 <p>今天开始做第一个<em>dome</em>，很喜欢作者的一句话：<em>There is a big difference between knowing the path and walking the path</em>.</p>
 
-<p>在开发一个APP时，最重要的一点是首先：The firt step is to figure out <em><strong>what you</strong></em> need to do, <em><strong>how</strong></em> to du these things is not important yet.</p>
-
-<p>关于ViewController，IOS设计原则就是每一个屏幕使用自己的view controller.swift文件.</p>
+<p>在开发一个APP时，最重要的一点是首先：The firt step is to figure out <em><strong>what you</strong></em> need to do, <em><strong>how</strong></em> to du these things is not important yet.
+<!--more-->
+关于ViewController，IOS设计原则就是每一个屏幕使用自己的view controller.swift文件.</p>
 
 <p><code>swift
 func showAlert() {
@@ -48,6 +47,8 @@ func showAlert() {
   <li>The button itself also has data and functionality. Examples of button data are the text and color of its label, its position on the screen, its width and height, and so on. The button also has functionality: it can recognize that the user taps on it and will trigger an action in response.</li>
   <li>The thing that provides functionality to an object is commonly called a <em><strong>method</strong></em>. Other programming languages may call this a “procedure” or “subroutine” or “function”. You will also see the term function used in Swift; a method is simply a function that belongs to an object.</li>
 </ul>
+
+<p>⚗</p>
 
 <p><img class="center" src="/images/myimages/object-oriented.jpg" width="800" height="600"></p>
 ]]></content>
